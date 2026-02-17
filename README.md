@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akavaram-Kiran/Leet-Code/tree/master/0001-two-sum) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Akavaram-Kiran/Leet-Code/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akavaram-Kiran/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Akavaram-Kiran/Leet-Code/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akavaram-Kiran/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
